@@ -7,15 +7,7 @@ Dans ce TP, vous allez créer la première page d’un site web moderne en utili
 
 Les composants interactifs (menu responsive, slider…) sont gérés automatiquement par Bootstrap.
 
----
-
-# Structure du Projet
-TP-Bootstrap-Homepage/
-│── index.html
-└── style.css (optionnel)
-
-
----
+--- ---
 
 # Importer Bootstrap dans le fichier `index.html`
 
